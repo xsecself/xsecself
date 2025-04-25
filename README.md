@@ -1,5 +1,3 @@
-**助安社区**
-
 - 🚕 加入社区 <a href="https://wiki.secself.com/0x00-助安社区/服务" target="view_window">【传送门】</a>，实战型成长平台，入门到就业闭环学习
 
 - 📺 [【关注B站】](https://space.bilibili.com/1233892570) ，订阅干货直播。
